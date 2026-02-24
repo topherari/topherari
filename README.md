@@ -1,7 +1,7 @@
 # 👋 Hola, soy Cristopher Arias (@topherari)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer;Infraestructura+como+Codigo+%7C+CI%2FCD;Kubernetes%2C+Observabilidad+y+Automatizacion&font=Fira%20Code&center=true&width=560&height=45&color=7437be&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer;Infraestructura+como+C%C3%B3digo+%7C+CI%2FCD;Kubernetes%2C+Observabilidad+y+Automatizaci%C3%B3n&font=Fira%20Code&center=true&width=560&height=45&color=7437be&vCenter=true&size=22">
 </div>
 
 ## 🚀 Enfoque actual
