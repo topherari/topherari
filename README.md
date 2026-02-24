@@ -1,19 +1,19 @@
-# 👋 Hola, soy Cristopher Arias (@topherari)
+# 👋 Hi, I'm Cristopher Arias (@topherari)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer;Infraestructura+como+C%C3%B3digo+%7C+CI%2FCD;Kubernetes%2C+Observabilidad+y+Automatizaci%C3%B3n&font=Fira%20Code&center=true&width=560&height=45&color=7437be&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+%26+Cloud+Engineer;Infrastructure+as+Code+%7C+CI%2FCD;Kubernetes%2C+Observability+%26+Automation&font=Fira%20Code&center=true&width=560&height=45&color=7437be&vCenter=true&size=22">
 </div>
 
-## 🚀 Enfoque actual
+## 🚀 Current focus
 
-Soy **Full-Stack Developer** con foco actual en **DevOps y Cloud**. Me especializo en automatizar infraestructura, mejorar la confiabilidad y llevar productos a producción de forma segura y escalable.
+I'm a **Full-Stack Developer** currently focused on **DevOps and Cloud**. I specialize in automating infrastructure, improving reliability, and shipping products to production securely and at scale.
 
-- ☁️ Arquitectura y operación en **AWS / Azure / GCP**
-- ⚙️ **CI/CD**, automatización e infraestructura como código
-- 🧩 Contenerización y orquestación con **Docker** y **Kubernetes**
-- 📈 Observabilidad, performance y mejora continua
+- ☁️ Architecture and operations across **AWS / Azure / GCP**
+- ⚙️ **CI/CD**, automation, and infrastructure as code
+- 🧩 Containerization and orchestration with **Docker** and **Kubernetes**
+- 📈 Observability, performance, and continuous improvement
 
-## 🧰 Stack principal (DevOps & Cloud)
+## 🧰 Primary stack (DevOps & Cloud)
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -26,7 +26,7 @@ Soy **Full-Stack Developer** con foco actual en **DevOps y Cloud**. Me especiali
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-## 💻 Base de desarrollo web
+## 💻 Web development foundation
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -38,49 +38,16 @@ Soy **Full-Stack Developer** con foco actual en **DevOps y Cloud**. Me especiali
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topherari&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=es&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topherari&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=topherari&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topherari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-## 📫 Conecta conmigo
+## 📫 Let's connect
 
 <div align="center">
   <a href="https://portfolio-enmvnuel-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/cristopher-arias-p/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
-## 🎨 Opciones alternativas (elige tu estilo)
-
-<details>
-  <summary><strong>Opción B — Minimalista</strong></summary>
-
-  ### 👨‍💻 Cristopher Arias | DevOps & Cloud
-  **Enfoque actual:** automatización de infraestructura, CI/CD y confiabilidad en la nube.
-
-  **Cloud & DevOps:** AWS · Azure · GCP · Docker · Kubernetes · Terraform · GitHub Actions · Linux
-
-  **Base web:** JavaScript · React · Node.js · Tailwind CSS
-
-  **Contacto:** [Portfolio](https://portfolio-enmvnuel-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/cristopher-arias-p/)
-</details>
-
-<details>
-  <summary><strong>Opción C — Profesional</strong></summary>
-
-  ### 🚀 Sobre mí
-  Full-Stack Developer con foco en **DevOps y Cloud**. Me dedico a construir pipelines confiables, automatizar despliegues y mantener infraestructura resiliente.
-
-  ### 🔧 Especialidades
-  - Infraestructura como código y automatización
-  - CI/CD, observabilidad y performance
-  - Kubernetes, Docker y prácticas SRE
-
-  ### 🧰 Stack
-  AWS · Azure · GCP · Terraform · Docker · Kubernetes · GitHub Actions · Linux · JavaScript · React · Node.js
-
-  ### 📫 Contacto
-  [Portfolio](https://portfolio-enmvnuel-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/cristopher-arias-p/)
-</details>
 
 ---
 
