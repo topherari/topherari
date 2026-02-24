@@ -1,4 +1,4 @@
-# 👋 Hey, I'm @Enmvnuel! 🚀
+# 👋 Hey, I'm @topherari! 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Enthusiast;Crafting+Awesome+Web+Experiences;Always+Exploring+New+Tech&font=Fira%20Code&center=true&width=440&height=45&color=7437be&vCenter=true&size=22">
@@ -81,9 +81,9 @@ When not coding, I'm hunting for the perfect coffee or tweaking my Neovim setup.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Enmvnuel/Enmvnuel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/topherari/topherari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enmvnuel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=topherari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
