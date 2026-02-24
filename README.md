@@ -38,7 +38,7 @@ I'm a **Full-Stack Developer** currently focused on **DevOps and Cloud**. I spec
 ## 📫 Let's connect
 
 <div align="center">
-  <a href="https://portfolio-enmvnuel-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/cristozsh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/cristopher-arias-p/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
